@@ -1,5 +1,5 @@
 // CONFIGURACIÓN: Ingresa tu número de WhatsApp de Uruguay (ej: 59899123456)
-const NUMERO_WHATSAPP = "097305438";
+const NUMERO_WHATSAPP = "+598 97 305 438";
 
 function initUrbancell() {
     // 1. Obtiene o crea el código único almacenado en el dispositivo del cliente
